@@ -7,7 +7,7 @@ The Foundation is currently owned and operated by **xSimplyLethal.**
 # Server Information
 ### Server Address
 
-The offical server IP to the Republic Foundation is `republiccraft.us.to`. It is hosted 24/7 by our partners at **Shockspace.** 
+The offical server IP to the Republic Foundation is `thefoundation.us.to`. It is hosted 24/7 by our partners at **Shockspace.** 
 
 ### Discord Server
 
